@@ -1,0 +1,68 @@
+{
+  "flipping_cards": [
+    {
+      "id": 1,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/mon.png"
+    },
+    {
+      "id": 2,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/croc.png"
+    },
+    {
+      "id": 3,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/ele.png"
+    },
+    {
+      "id": 4,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/Jira.png"
+    },
+    {
+      "id": 5,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/lion.png"
+    },
+    {
+      "id": 6,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/paro.png"
+    },
+    {
+      "id": 7,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/raino.png"
+    },
+    {
+      "id": 8,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/zeebra.png"
+    },
+    {
+      "id": 9,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/mon.png"
+    },
+    {
+      "id": 10,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/croc.png"
+    },
+    {
+      "id": 11,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/ele.png"
+    },
+    {
+      "id": 12,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/Jira.png"
+    },
+    {
+      "id": 13,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/lion.png"
+    },
+    {
+      "id":14,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/paro.png"
+    },
+    {
+      "id": 15,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/raino.png"
+    },
+    {
+      "id": 16,
+      "url": "https://dev.databoxtech.io/dp_games/flip_cards/images/zeebra.png"
+    }
+  ]
+}
